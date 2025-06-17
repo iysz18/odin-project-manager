@@ -1,0 +1,1 @@
+// index.js - the entrypoint of project-manager app
