@@ -1,2 +1,2 @@
-// index.js - the entrypoint of project-manager app
+// index.js - the entrypoint for project-manager app
 import "../src/style.css";
